@@ -1,0 +1,23 @@
+{
+  "columns": [
+    "CRIM",
+    "ZN",
+    "INDUS",
+    "CHAS",
+    "NOX",
+    "RM",
+    "AGE",
+    "DIS",
+    "RAD",
+    "TAX",
+    "PTRATIO",
+    "B",
+    "LSTAT",
+    "RM_LSTAT",
+    "RM2",
+    "LSTAT2",
+    "TAX_AGE"
+  ],
+  "target": "MEDV",
+  "best_model_name": "Gradient Boosting (Tuned)"
+}
